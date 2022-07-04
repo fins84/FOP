@@ -1,0 +1,77 @@
+#
+# Name : Kevin Mesquita
+# ID : 20175535
+#
+#
+
+
+
+
+## Synopsis
+
+PaSciRo Simulation Assignment for Fundamentals of Programming COMP1005/5005
+
+
+
+
+## Contents
+
+README - readme file for PaSciRo assignment
+
+Assignment.py - back end code for the creation and interaction of the objects
+
+Assignment_Test_argv.py - Testing code to create and run PaSciRo simulation using Assingment.Py (uses external Parameters)
+
+Assignment_Test_counter_arg.py - (passes in variables though command line) Testing code which does a parameter sweep on the amount of animals and outputs their timesteps to a file
+
+Assignment_Test_movesave_arg.py - (passes in variables through command line) Testing code which saves the individual time steps to a file
+
+PsuedoCode.txt - Brainstorm document used to plan Assignment code structure
+
+pasciroExample.py - Example Code provided by unit co-ordinator
+
+Simulation_Results: (file containing test code not using argv)
+
+    Assignment_Test.py - Testing code to create and run simulation using Assignment.py (doesn't use external parameters)
+
+    Assignment_Test_counter_arg.py - Testing code which does a parameter sweep on the amount of animals and outputs their timesteps to a file
+
+    Assignment_Test_movesave_arg.py - Testing code which saves the individual time steps to a file
+
+Simulation_Results: (File which contains simulation results and code that looks at it)
+
+    processing_results.py - Code used to process the results from test code
+
+    test.csv - results from experiment used in report
+
+
+
+
+## Dependencies
+
+Numpy - Module that allows implemenation of array
+
+Matplotlib - Module that allows for plotting
+
+Random - Module that allows for generation of random numbers
+
+Pygame - Module that allows for creation of games and GUI in python
+
+Math - Module that allows for more complicated math
+
+Assignment.py - Module which allows for creation and interaction of animal objects with eachother
+
+Argv -  Module that allows for command line arguments to be used in the script
+
+Csv - Easier method of writing to csv files
+
+Os - provides system dependent functionality
+
+Pandas - data analysis module
+
+
+
+
+## Version Information
+
+27/10/2020 - Version 2 of Assingment Programs
